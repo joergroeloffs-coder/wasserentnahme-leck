@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Verarbeitet Korrektur-Meldungen aus der Nutzer-App (E-Mails an die in der App hinterlegte Kontaktadresse)
+Verarbeitet Korrektur-Meldungen aus der Nutzer-App (E-Mails an die in
+config.js hinterlegte Kontaktadresse)
 und übernimmt sie nach Bestätigung in daten/stellen.geojson.
 
 Nutzung:
