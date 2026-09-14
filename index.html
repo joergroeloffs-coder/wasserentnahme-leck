@@ -441,7 +441,7 @@
 <script src="vendor/leaflet.js"></script>
 <script>
 "use strict";
-const KEY = "wasserentnahme.foehr.v1";
+const KEY = "wasserentnahme.leck.v1";
 
 if("serviceWorker" in navigator){
   window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
@@ -1018,7 +1018,7 @@ function neu(lat, lon, genau){
 }
 
 /* ---------- Daten ---------- */
-const UNGESICHERT_KEY = "wasserentnahme.foehr.ungesichert";
+const UNGESICHERT_KEY = "wasserentnahme.leck.ungesichert";
 function markUngesichert(){ try { localStorage.setItem(UNGESICHERT_KEY, "1"); } catch(e){} }
 function ungesichertZuruecksetzen(){ try { localStorage.removeItem(UNGESICHERT_KEY); } catch(e){} }
 function istUngesichert(){ try { return localStorage.getItem(UNGESICHERT_KEY) === "1"; } catch(e){ return false; } }
@@ -1145,7 +1145,7 @@ document.getElementById("vorladen-start").addEventListener("click", async () => 
 });
 
 /* ---------- PIN-Schutz ---------- */
-const PIN_KEY = "wasserentnahme.foehr.pin";
+const PIN_KEY = "wasserentnahme.leck.pin";
 function pinGesetzt(){ try { return !!localStorage.getItem(PIN_KEY); } catch(e){ return false; } }
 function pinPruefen(){
   let gespeichert;
@@ -1272,9 +1272,9 @@ document.getElementById("loeschen").addEventListener("click", () => {
 });
 
 /* ---------- Automatischer Abgleich bei Internet/WLAN ---------- */
-const AUTO_SYNC_KEY = "wasserentnahme.foehr.autosync";
-const SYNC_HASH_KEY = "wasserentnahme.foehr.synchash";
-const SYNC_ZEIT_KEY = "wasserentnahme.foehr.synczeit";
+const AUTO_SYNC_KEY = "wasserentnahme.leck.autosync";
+const SYNC_HASH_KEY = "wasserentnahme.leck.synchash";
+const SYNC_ZEIT_KEY = "wasserentnahme.leck.synczeit";
 const SYNC_URL = "./daten/stellen.geojson";
 
 function autoSyncAktiv(){
