@@ -1,1 +1,252 @@
-{"type":"FeatureCollection","features":[]}
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.826342,
+     54.7862507
+    ]
+   },
+   "properties": {
+    "ref": "OSM-AED-01",
+    "name": "",
+    "addr:city": "",
+    "emergency": "defibrillator",
+    "art": "Defibrillator",
+    "description": "Quelle: OpenStreetMap/OpenAEDMap, nicht vor Ort bestätigt, Ortschaft noch einzutragen",
+    "survey:date": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.1489761,
+     54.8108065
+    ]
+   },
+   "properties": {
+    "ref": "OSM-AED-02",
+    "name": "Biohof Thomsen GbR",
+    "addr:city": "",
+    "emergency": "defibrillator",
+    "art": "Defibrillator",
+    "description": "Quelle: OpenStreetMap/OpenAEDMap, nicht vor Ort bestätigt, Ortschaft noch einzutragen",
+    "survey:date": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.1493378,
+     54.8317339
+    ]
+   },
+   "properties": {
+    "ref": "OSM-AED-03",
+    "name": "",
+    "addr:city": "",
+    "emergency": "defibrillator",
+    "art": "Defibrillator",
+    "description": "Quelle: OpenStreetMap/OpenAEDMap, nicht vor Ort bestätigt, Ortschaft noch einzutragen",
+    "survey:date": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.198081,
+     54.8256673
+    ]
+   },
+   "properties": {
+    "ref": "OSM-AED-04",
+    "name": "",
+    "addr:city": "",
+    "emergency": "defibrillator",
+    "art": "Defibrillator",
+    "description": "Quelle: OpenStreetMap/OpenAEDMap, nicht vor Ort bestätigt, Ortschaft noch einzutragen",
+    "survey:date": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.8336888,
+     54.789974
+    ]
+   },
+   "properties": {
+    "ref": "OSM-AED-05",
+    "name": "",
+    "addr:city": "",
+    "emergency": "defibrillator",
+    "art": "Defibrillator",
+    "description": "Quelle: OpenStreetMap/OpenAEDMap, nicht vor Ort bestätigt, Ortschaft noch einzutragen",
+    "survey:date": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.8909952,
+     54.8365567
+    ]
+   },
+   "properties": {
+    "ref": "OSM-AED-06",
+    "name": "",
+    "addr:city": "",
+    "emergency": "defibrillator",
+    "art": "Defibrillator",
+    "description": "Quelle: OpenStreetMap/OpenAEDMap, nicht vor Ort bestätigt, Ortschaft noch einzutragen",
+    "survey:date": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.889879,
+     54.8391137
+    ]
+   },
+   "properties": {
+    "ref": "OSM-AED-07",
+    "name": "",
+    "addr:city": "",
+    "emergency": "defibrillator",
+    "art": "Defibrillator",
+    "description": "Quelle: OpenStreetMap/OpenAEDMap, nicht vor Ort bestätigt, Ortschaft noch einzutragen",
+    "survey:date": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.9818659,
+     54.7682567
+    ]
+   },
+   "properties": {
+    "ref": "OSM-AED-08",
+    "name": "Björn Steiger Stiftung",
+    "addr:city": "",
+    "emergency": "defibrillator",
+    "art": "Defibrillator",
+    "description": "Quelle: OpenStreetMap/OpenAEDMap, nicht vor Ort bestätigt, Ortschaft noch einzutragen",
+    "survey:date": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.9028742,
+     54.8736707
+    ]
+   },
+   "properties": {
+    "ref": "OSM-AED-09",
+    "name": "",
+    "addr:city": "",
+    "emergency": "defibrillator",
+    "art": "Defibrillator",
+    "description": "Quelle: OpenStreetMap/OpenAEDMap, nicht vor Ort bestätigt, Ortschaft noch einzutragen",
+    "survey:date": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.9070594,
+     54.8708349
+    ]
+   },
+   "properties": {
+    "ref": "OSM-AED-10",
+    "name": "",
+    "addr:city": "",
+    "emergency": "defibrillator",
+    "art": "Defibrillator",
+    "description": "Quelle: OpenStreetMap/OpenAEDMap, nicht vor Ort bestätigt, Ortschaft noch einzutragen",
+    "survey:date": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.1739356,
+     54.8120493
+    ]
+   },
+   "properties": {
+    "ref": "OSM-AED-11",
+    "name": "Edeka",
+    "addr:city": "",
+    "emergency": "defibrillator",
+    "art": "Defibrillator",
+    "description": "Quelle: OpenStreetMap/OpenAEDMap, nicht vor Ort bestätigt, Ortschaft noch einzutragen",
+    "survey:date": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.8614408,
+     54.8630302
+    ]
+   },
+   "properties": {
+    "ref": "OSM-AED-12",
+    "name": "",
+    "addr:city": "",
+    "emergency": "defibrillator",
+    "art": "Defibrillator",
+    "description": "Quelle: OpenStreetMap/OpenAEDMap, nicht vor Ort bestätigt, Ortschaft noch einzutragen",
+    "survey:date": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.95644,
+     54.6875622
+    ]
+   },
+   "properties": {
+    "ref": "OSM-AED-13",
+    "name": "",
+    "addr:city": "",
+    "emergency": "defibrillator",
+    "art": "Defibrillator",
+    "description": "Quelle: OpenStreetMap/OpenAEDMap, nicht vor Ort bestätigt, Ortschaft noch einzutragen",
+    "survey:date": ""
+   }
+  }
+ ]
+}
